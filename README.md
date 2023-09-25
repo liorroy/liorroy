@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### I'm an Economics & Computer Science student at The Open University of Israel
 
-📫 How to reach me: [liorroy30@gmail.com,](liorroy30@gmail.com) , [my Linkedin](linkedin.com/in/lior-roytburd)
+📫 How to reach me: liorroy30@gmail.com, linkedin.com/in/lior-roytburd
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyAssayah&show_icons=true&theme=vue-dark&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
