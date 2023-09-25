@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-### Hi there 👋
 ### I'm an Economics & Computer Science student at The Open University of Israel
+
 📫 How to reach me: [liorroy30@gmail.com,](liorroy30@gmail.com) , [my Linkedin](linkedin.com/in/lior-roytburd)
 
 
@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAssayah&layout=compact&theme=vue-dark)](https://github.com/nerya0001/github-readme-stats)
 
-
-
- 
  </div>
-
+ 
+<!--
+ 
  
 </div>
 <div align="center">
@@ -59,5 +58,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-
+-->
  
