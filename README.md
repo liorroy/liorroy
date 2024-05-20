@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-### I'm an Economics & Computer Science student at The Open University of Israel
+### I'm a Computer Science & Economics student at The Open University of Israel
 
 📫 How to reach me: 
-liorroy30@gmail.com
- [linkedin.com/in/lior-roytburd](https://www.linkedin.com/in/lior-roytburd/)
+
+
+[liorroy30@gmail.com](liorroy30@gmail.com)
+
+[linkedin.com/in/lior-roytburd](https://www.linkedin.com/in/lior-roytburd/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liorroy&show_icons=true&theme=vue-dark&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
